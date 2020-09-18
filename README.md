@@ -1,2 +1,2 @@
 # cad2020
-https://40823251.github.io/
+https://40823251.github.io/cad2020
